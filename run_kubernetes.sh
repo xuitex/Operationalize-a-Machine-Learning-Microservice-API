@@ -7,7 +7,7 @@
 # dockerpath=<>
 dockerpath="xuitex/mlapi"
 
-# Step 2
+# Step 2:
 # Run the Docker Hub container with kubernetes
 kubectl run myapp\
 	--image=$dockerpath\
