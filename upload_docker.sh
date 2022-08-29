@@ -3,7 +3,7 @@
 
 # Assumes that an image is built via `run_docker.sh`
 
-# Step 1:
+# Step 1
 # Create dockerpath
 # dockerpath=<your docker ID/path>
 dockerpath="xuitex/mlapi"
