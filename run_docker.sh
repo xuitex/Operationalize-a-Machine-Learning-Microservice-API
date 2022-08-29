@@ -6,7 +6,7 @@
 # Build image and add a descriptive tag
 docker build --tag=mlapi .
 
-# Step 2: 
+# Step 2
 # List docker images
 docker image ls
 
