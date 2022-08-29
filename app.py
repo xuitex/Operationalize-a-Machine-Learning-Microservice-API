@@ -25,7 +25,7 @@ def home():
 
 @app.route("/predict", methods=['POST'])
 def predict():
-    """Performs an sklearn prediction
+    """Performs an sklearn predictio
         
         input looks like:
         {
